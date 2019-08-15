@@ -58,6 +58,6 @@ make vxWorks_st
 
 运行效果如图：
 
-![启动完成](http://ruier.coding.me/images/blog/qemu_vx_booted.png)
+![启动完成](https://ruier.github.io/images/blog/qemu_vx_booted.png)
 
-![查看进程](http://ruier.coding.me/images/blog/qemu_vx_boot_i.png)
+![查看进程](https://ruier.github.io/images/blog/qemu_vx_boot_i.png)
